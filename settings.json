@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "SoulSteelS2.aternos.me",
+    "port": 28645,
     "version": "1.21.1"
   },
   "position": {
@@ -18,7 +18,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Slobos"
     },
     "anti-afk": {
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like turtles",
+        "Who wants to team"
       ]
     },
     "chat-log": true,
